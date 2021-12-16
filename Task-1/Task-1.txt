@@ -1,0 +1,4 @@
+1. 
+2. Our data is the tweets related to omicron virus, we can use it to gain public opinion on the issue
+3. We can perform a sentiment analysis
+4. nltk, pandas, numpy, matplotlib, seaborn, plotly, sklearn
